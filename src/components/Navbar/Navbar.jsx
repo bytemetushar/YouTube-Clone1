@@ -15,12 +15,6 @@ const Navbar =({setSidebar})=>{
 
     const [value,setValue] = useState('');
 
-    // const sentences = () =>{
-    //     console.log(setValue.target.value);
-    // }
-
-
-
     return(
         <nav className='flex-div'>
             <div className='nav-left fex-div'>

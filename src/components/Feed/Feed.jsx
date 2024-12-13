@@ -1,14 +1,5 @@
 import React, { useEffect, useState } from "react";
 import './Feed.css'
-
-// import thumnail1 from '../../assets/thumbnail2.webp'
-// import thumnail2 from '../../assets/thumbnail2.webp'
-// import thumnail3 from '../../assets/thumbnail2.webp'
-// import thumnail4 from '../../assets/thumbnail2.webp'
-// import thumnail5 from '../../assets/thumbnail5.webp'
-// import thumnail6 from '../../assets/thumbnail5.webp'
-// import thumnail7 from '../../assets/thumbnail5.webp'
-// import thumnail8 from '../../assets/thumbnail5.webp'
 import {Link} from 'react-router-dom'
 import { API_KEY, value_converter } from "../../Data";
 import moment from 'moment'
